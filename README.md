@@ -106,11 +106,12 @@ What is the impact of order quantities on shipping costs?
 - The top 2 highest-selling products is SKU10 and SKU94 under the "SKINCARE",”COSMETIC” category, with a total of 996units and 987 units sold respectively.
 Highest Revenue Generating Products:
 - The product SKU51 from Haircare,SKU38 from costmetic, and SKU31 from SKINCARE top the list of products each of which records approx. '9866.465457979697', '9692.318040218432', and '9655.135102719398 average generated revenue.
+
 **Profit Margin Analysis:**
   
 SKU2 (Haircare)  and SKU85 (cosmetic)has the highest profit margin, calculated by considering the difference between revenue generated and associated costs.
-Overall Defect Rates by Product Type:
-oSKU42(Skincare) products have a higher average defect rate of with a 4.94% defect rate while the SKU21(Cosmetic) have the least average defect rate of 0.0186.
+**Overall Defect Rates by Product Type:**
+- SKU42(Skincare) products have a higher average defect rate of with a 4.94% defect rate while the SKU21(Cosmetic) have the least average defect rate of 0.0186.
 **Insights:**
 
 - Focus marketing efforts on high-revenue products like SKU51 and SKU38.
