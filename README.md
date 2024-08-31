@@ -33,6 +33,7 @@ The dataset was obtained from kaggle. It covers a wide range of business aspects
 - Costs: The costs associated with transportation on each route.
 
 **ANALYSIS WAS BASED ON**
+
 **Product Performance Analysis:** To understand which products are the most valuable in terms of sales, revenue, and profitability.
 **Supply Chain and Inventory Management:** To optimize supply chain operations, manage stock levels, and reduce costs.
 **Customer Behavior and Segmentation:** To understand customer demographics for better-targeted marketing and improved customer satisfaction.
@@ -42,8 +43,9 @@ The dataset was obtained from kaggle. It covers a wide range of business aspects
 
 **APPROACH/PREPROCESSINGS**
 
-Data Preprocessing
-Exploratory Data Analysis
+a. Data Preprocessing
+
+b. Exploratory Data Analysis
 
 **BUSINESS QUESTIONS TO BE ANSWERED**
 
@@ -110,8 +112,11 @@ Highest Revenue Generating Products:
 **Profit Margin Analysis:**
   
 SKU2 (Haircare)  and SKU85 (cosmetic)has the highest profit margin, calculated by considering the difference between revenue generated and associated costs.
+
 **Overall Defect Rates by Product Type:**
+
 - SKU42(Skincare) products have a higher average defect rate of with a 4.94% defect rate while the SKU21(Cosmetic) have the least average defect rate of 0.0186.
+  
 **Insights:**
 
 - Focus marketing efforts on high-revenue products like SKU51 and SKU38.
